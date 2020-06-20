@@ -1,6 +1,6 @@
 class Dog
-  def name
-    puts name(dog_name)
+  def name(dog_name)
+    puts name
     returns dog_name
   end
   def name=(dog_name)
